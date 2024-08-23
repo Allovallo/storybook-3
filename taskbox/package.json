@@ -25,7 +25,8 @@
     "preview": "vite preview",
     "sb": "storybook dev -p 6006",
     "build-sb": "storybook build",
-    "init-msw": "msw init public/"
+    "init-msw": "msw init public/",
+    "test-storybook": "test-storybook"
   },
   "devDependencies": {
     "@chromatic-com/storybook": "1",
